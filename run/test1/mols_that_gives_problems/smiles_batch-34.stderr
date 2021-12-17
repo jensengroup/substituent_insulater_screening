@@ -1,0 +1,67 @@
+/var/lib/slurm-llnl/slurmd/job932508/slurm_script: 12: cd: can't cd to /scratch/932508
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-34.csv’ and ‘./smiles_batch-34.csv’ are the same file
+[09:33:02] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:02] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:02] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:03] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:03] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:03] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:07] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:07] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 3
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 4
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 9
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 14
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 19
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 24
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 25
+[09:33:07] UFFTYPER: Unrecognized charge state for atom: 30
+[09:33:07] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+[09:42:54] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:42:54] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+no conformers match the initial input
+cp: ‘smiles_batch-44.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-44.pkl’ are the same file
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.pkl’ are the same file

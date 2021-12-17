@@ -1,0 +1,18 @@
+/var/lib/slurm-llnl/slurmd/job932995/slurm_script: 12: cd: can't cd to /scratch/932995
+cp: ‘/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-0.csv’ and ‘./smiles_batch-0.csv’ are the same file
+1 molecule converted
+12 audit log messages 
+1 molecule converted
+12 audit log messages 
+normal termination of xtb
+normal termination of xtb
+1 molecule converted
+12 audit log messages 
+1 molecule converted
+12 audit log messages 
+normal termination of xtb
+normal termination of xtb
+1 molecule converted
+12 audit log messages 
+normal termination of xtb
+cp: ‘mol0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol0.pkl’ are the same file

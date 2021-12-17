@@ -1,0 +1,9 @@
+/var/lib/slurm-llnl/slurmd/job932476/slurm_script: 12: cd: can't cd to /scratch/932476
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-2.csv’ and ‘./smiles_batch-2.csv’ are the same file
+Traceback (most recent call last):
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 101, in <module>
+    mol =  gs_gemma(compound)
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 83, in gs_gemma
+    rdkit_conf = mol.GetConformer()
+ValueError: Bad Conformer Id
+cp: cannot stat ‘*pkl’: No such file or directory

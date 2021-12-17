@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol12,CSCC1(C([GeH3])([GeH3])C([GeH3])([GeH3])2)C([GeH3])([GeH3])C([GeH3])([GeH3])C2(C([GeH3])([GeH3])C([GeH3])([GeH3])1)CSC,0,1

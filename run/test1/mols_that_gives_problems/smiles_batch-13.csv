@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol16,CSCC1(C([Ge](F)(F)F)([Ge](F)(F)F)C([Ge](F)(F)F)([Ge](F)(F)F)2)C([Ge](F)(F)F)([Ge](F)(F)F)C([Ge](F)(F)F)([Ge](F)(F)F)C2(C([Ge](F)(F)F)([Ge](F)(F)F)C([Ge](F)(F)F)([Ge](F)(F)F)1)CSC,0,1

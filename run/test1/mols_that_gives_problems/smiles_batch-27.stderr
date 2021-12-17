@@ -1,0 +1,27 @@
+/var/lib/slurm-llnl/slurmd/job932501/slurm_script: 12: cd: can't cd to /scratch/932501
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-27.csv’ and ‘./smiles_batch-27.csv’ are the same file
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+[09:32:06] UFFTYPER: Unrecognized atom type: Ge1 (19)
+[09:32:06] UFFTYPER: Unrecognized charge state for atom: 24
+[09:32:06] UFFTYPER: Unrecognized atom type: S_1+6 (24)
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+no conformers match the initial input
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.pkl’ are the same file

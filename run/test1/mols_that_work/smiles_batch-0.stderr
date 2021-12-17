@@ -1,0 +1,4 @@
+/var/lib/slurm-llnl/slurmd/job932388/slurm_script: 12: cd: can't cd to /scratch/932388
+cp: ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-0.csv’ and ‘./smiles_batch-0.csv’ are the same file
+normal termination of xtb
+cp: ‘smiles_batch-0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-0.pkl’ are the same file

@@ -1,0 +1,9 @@
+comp_name,smiles,charge,multiplicity
+mol10,CSCC1(C([Si])([Si])C([Si])([Si])2)C([Si])([Si])C([Si])([Si])C2(C([Si])([Si])C([Si])([Si])1)CSC,0,1 
+mol12,CSCC1(C([Ge])([Ge])C([Ge])([Ge])2)C([Ge])([Ge])C([Ge])([Ge])C2(C([Ge])([Ge])C([Ge])([Ge])1)CSC,0,1 
+mol28,CSC[Si]1([Si][Si]2)[Si][Si][Si]2([Si][Si]1)CSC,0,1 
+mol38,CSC[Si]1([Si]([Si])([Si])[Si]([Si])([Si])2)[Si]([Si])([Si])[Si]([Si])([Si])[Si]2([Si]([Si])([Si])[Si]([Si])([Si])1)CSC,0,1 
+mol40,CSC[Si]1([Si]([Ge])([Ge])[Si]([Ge])([Ge])2)[Si]([Ge])([Ge])[Si]([Ge])([Ge])[Si]2([Si]([Ge])([Ge])[Si]([Ge])([Ge])1)CSC,0,1 
+mol56,CSC[Ge]1([Ge][Ge]2)[Ge][Ge][Ge]2([Ge][Ge]1)CSC,0,1 
+mol66,CSC[Ge]1([Ge]([Si])([Si])[Ge]([Si])([Si])2)[Ge]([Si])([Si])[Ge]([Si])([Si])[Ge]2([Ge]([Si])([Si])[Ge]([Si])([Si])1)CSC,0,1 
+mol68,CSC[Ge]1([Ge]([Ge])([Ge])[Ge]([Ge])([Ge])2)[Ge]([Ge])([Ge])[Ge]([Ge])([Ge])[Ge]2([Ge]([Ge])([Ge])[Ge]([Ge])([Ge])1)CSC,0,1 

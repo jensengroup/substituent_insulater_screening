@@ -1,0 +1,22 @@
+#!/bin/sh
+#SBATCH --job-name=smiles_batch-3
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=10GB
+#SBATCH --ntasks=1
+#SBATCH --error=/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-3.stderr
+#SBATCH --output=/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-3.stdout
+#SBATCH --time=24:00:00
+#SBATCH --partition=coms
+#SBATCH --no-requeue
+
+cd /scratch/$SLURM_JOB_ID
+
+# copy batch file
+cp /home/koerstz/projects/gemma_part2/run/test2/smiles_batch-3.csv .
+
+# run python code
+/home/koerstz/anaconda3/envs/quantum_ml/bin/python /home/koerstz/projects/gemma_part2/gemma_v2.py smiles_batch-3.csv 2
+
+# copy data back
+cp *pkl /home/koerstz/projects/gemma_part2/run/test2
+

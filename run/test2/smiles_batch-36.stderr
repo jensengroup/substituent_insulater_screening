@@ -1,0 +1,44 @@
+/var/lib/slurm-llnl/slurmd/job933031/slurm_script: 12: cd: can't cd to /scratch/933031
+cp: ‘/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-36.csv’ and ‘./smiles_batch-36.csv’ are the same file
+1 molecule converted
+14 audit log messages 1
+ molecule converted
+14 audit log messages 
+normal termination of xtb
+normal termination of xtb
+1 molecule converted
+14 audit log messages 
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+normal termination of xtb
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+cp: ‘mol0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol0.pkl’ are the same file
+cp: ‘mol1.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol1.pkl’ are the same file
+cp: ‘mol10.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol10.pkl’ are the same file
+cp: ‘mol12.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol12.pkl’ are the same file
+cp: ‘mol14.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol14.pkl’ are the same file
+cp: ‘mol15.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol15.pkl’ are the same file
+cp: ‘mol16.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol16.pkl’ are the same file
+cp: ‘mol17.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol17.pkl’ are the same file
+cp: ‘mol18.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol18.pkl’ are the same file
+cp: ‘mol19.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol19.pkl’ are the same file
+cp: ‘mol2.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol2.pkl’ are the same file
+cp: ‘mol20.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol20.pkl’ are the same file
+cp: ‘mol21.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol21.pkl’ are the same file
+cp: ‘mol22.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol22.pkl’ are the same file
+cp: ‘mol23.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol23.pkl’ are the same file
+cp: ‘mol24.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol24.pkl’ are the same file
+cp: ‘mol25.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol25.pkl’ are the same file
+cp: ‘mol26.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol26.pkl’ are the same file
+cp: ‘mol28.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol28.pkl’ are the same file
+cp: ‘mol29.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol29.pkl’ are the same file
+cp: ‘mol30.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol30.pkl’ are the same file
+cp: ‘mol31.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol31.pkl’ are the same file
+cp: ‘mol32.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol32.pkl’ are the same file
+cp: ‘mol34.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol34.pkl’ are the same file
+cp: ‘mol36.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol36.pkl’ are the same file
+cp: ‘mol8.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol8.pkl’ are the same file
+cp: ‘mol9.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol9.pkl’ are the same file
