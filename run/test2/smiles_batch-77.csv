@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol77,CSC[Ge]1([Ge](N)(N)[Ge](N)(N)2)[Ge](N)(N)[Ge](N)(N)[Ge]2([Ge](N)(N)[Ge](N)(N)1)CSC,0,1

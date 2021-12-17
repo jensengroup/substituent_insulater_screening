@@ -1,0 +1,9 @@
+/var/lib/slurm-llnl/slurmd/job932517/slurm_script: 12: cd: can't cd to /scratch/932517
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-43.csv’ and ‘./smiles_batch-43.csv’ are the same file
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+no conformers match the initial input
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.pkl’ are the same file

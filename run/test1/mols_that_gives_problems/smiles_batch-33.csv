@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol50,CSC[Si]1([Si](N(C)C)(N(C)C)[Si](N(C)C)(N(C)C)2)[Si](N(C)C)(N(C)C)[Si](N(C)C)(N(C)C)[Si]2([Si](N(C)C)(N(C)C)[Si](N(C)C)(N(C)C)1)CSC,0,1

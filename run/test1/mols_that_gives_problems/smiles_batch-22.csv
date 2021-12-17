@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol32,CSC[Si]1([Si](CC(C)C)(CC(C)C)[Si](CC(C)C)(CC(C)C)2)[Si](CC(C)C)(CC(C)C)[Si](CC(C)C)(CC(C)C)[Si]2([Si](CC(C)C)(CC(C)C)[Si](CC(C)C)(CC(C)C)1)CSC,0,1

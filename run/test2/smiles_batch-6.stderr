@@ -1,0 +1,10 @@
+/var/lib/slurm-llnl/slurmd/job933001/slurm_script: 12: cd: can't cd to /scratch/933001
+cp: ‘/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-6.csv’ and ‘./smiles_batch-6.csv’ are the same file
+Traceback (most recent call last):
+  File "/home/koerstz/projects/gemma_part2/gemma_v2.py", line 101, in <module>
+    AllChem.UFFOptimizeMoleculeConfs(mol, numThreads=num_cpus, maxIters=max_ff_iters)
+ValueError: Bad Conformer Id
+cp: ‘mol0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol0.pkl’ are the same file
+cp: ‘mol1.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol1.pkl’ are the same file
+cp: ‘mol2.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol2.pkl’ are the same file
+cp: ‘mol8.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol8.pkl’ are the same file

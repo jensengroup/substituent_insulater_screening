@@ -1,0 +1,46 @@
+/var/lib/slurm-llnl/slurmd/job932512/slurm_script: 12: cd: can't cd to /scratch/932512
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-38.csv’ and ‘./smiles_batch-38.csv’ are the same file
+abnormal termination of xtb
+abnormal termination of xtb
+abnormal termination of xtb
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/koerstz/anaconda3/envs/quantum_ml/lib/python3.6/multiprocessing/pool.py", line 119, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/koerstz/anaconda3/envs/quantum_ml/lib/python3.6/multiprocessing/pool.py", line 44, in mapstar
+    return list(map(*args))
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/qmmol.py", line 235, in worker
+    return conf.conf_calculate(keep_files=keep, quantities=quant)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/qmconf.py", line 134, in conf_calculate
+    quantities=quantities)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/calculator/xtb.py", line 98, in calculate
+    results = Calculator.read_results(self, self.qmconf, output, quantities)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/calculator/calculator.py", line 119, in read_results
+    results[quant] = reader(content, quantity=quant)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/myio/io_xtb.py", line 21, in read_xtb_out
+    return read_energy(content)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/myio/io_xtb.py", line 46, in read_energy
+    return energy
+UnboundLocalError: local variable 'energy' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 101, in <module>
+    mol =  gs_gemma(compound)
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 85, in gs_gemma
+    qmconf = gs_conformer_search(name, rdkit_conf, chrg, mult, cps)
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 42, in gs_conformer_search
+    qmmol.optimize(num_procs=cpus, keep_files=False)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/qmmol.py", line 101, in optimize
+    self.calculate(num_procs, keep_files, quantities)
+  File "/home/koerstz/projects/gemma_part2/QMC_6.2/qmmol.py", line 113, in calculate
+    updated_confs =  p.map(worker, inp)
+  File "/home/koerstz/anaconda3/envs/quantum_ml/lib/python3.6/multiprocessing/pool.py", line 266, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/koerstz/anaconda3/envs/quantum_ml/lib/python3.6/multiprocessing/pool.py", line 644, in get
+    raise self._value
+UnboundLocalError: local variable 'energy' referenced before assignment
+cp: cannot stat ‘*pkl’: No such file or directory

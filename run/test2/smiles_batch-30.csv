@@ -1,0 +1,2 @@
+comp_name,smiles,charge,multiplicity
+mol30,CSC[Si]1([Si](CC)(CC)[Si](CC)(CC)2)[Si](CC)(CC)[Si](CC)(CC)[Si]2([Si](CC)(CC)[Si](CC)(CC)1)CSC,0,1

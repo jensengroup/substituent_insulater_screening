@@ -1,0 +1,17 @@
+/var/lib/slurm-llnl/slurmd/job932511/slurm_script: 12: cd: can't cd to /scratch/932511
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-37.csv’ and ‘./smiles_batch-37.csv’ are the same file
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (4)
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (5)
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (6)
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (7)
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (9)
+[09:31:36] UFFTYPER: Unrecognized atom type: Ge1 (10)
+Traceback (most recent call last):
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 101, in <module>
+    mol =  gs_gemma(compound)
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 85, in gs_gemma
+    qmconf = gs_conformer_search(name, rdkit_conf, chrg, mult, cps)
+  File "/home/koerstz/projects/gemma_part2/gemma_conf_search.py", line 52, in gs_conformer_search
+    low_energy_conf = qmmol.nlowest(1)[0]
+IndexError: list index out of range
+cp: cannot stat ‘*pkl’: No such file or directory

@@ -1,0 +1,26 @@
+/var/lib/slurm-llnl/slurmd/job933011/slurm_script: 12: cd: can't cd to /scratch/933011
+cp: ‘/home/koerstz/projects/gemma_part2/run/test2/smiles_batch-16.csv’ and ‘./smiles_batch-16.csv’ are the same file
+1 molecule converted
+14 audit log messages 
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+1 molecule converted
+14 audit log messages 
+normal termination of xtb
+normal termination of xtb
+cp: ‘mol0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol0.pkl’ are the same file
+cp: ‘mol1.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol1.pkl’ are the same file
+cp: ‘mol10.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol10.pkl’ are the same file
+cp: ‘mol12.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol12.pkl’ are the same file
+cp: ‘mol14.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol14.pkl’ are the same file
+cp: ‘mol16.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol16.pkl’ are the same file
+cp: ‘mol2.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol2.pkl’ are the same file
+cp: ‘mol8.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol8.pkl’ are the same file
+cp: ‘mol9.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/test2/mol9.pkl’ are the same file

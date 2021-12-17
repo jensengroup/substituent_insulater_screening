@@ -1,0 +1,18 @@
+/var/lib/slurm-llnl/slurmd/job932534/slurm_script: 12: cd: can't cd to /scratch/932534
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-60.csv’ and ‘./smiles_batch-60.csv’ are the same file
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+[10:14:23] WARNING: not removing hydrogen atom without neighbors
+[10:14:23] WARNING: not removing hydrogen atom without neighbors
+[10:14:23] WARNING: not removing hydrogen atom without neighbors
+[10:14:23] WARNING: not removing hydrogen atom without neighbors
+[10:14:23] Can't kekulize mol.  Unkekulized atoms: 12 13 14 15 16
+
+[10:14:23] WARNING: not removing hydrogen atom without neighbors
+[10:14:24] WARNING: not removing hydrogen atom without neighbors
+cp: ‘smiles_batch-44.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-44.pkl’ are the same file
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.pkl’ are the same file
+cp: ‘smiles_batch-60.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-60.pkl’ are the same file

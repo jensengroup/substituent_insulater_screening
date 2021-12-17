@@ -1,0 +1,14 @@
+/var/lib/slurm-llnl/slurmd/job932520/slurm_script: 12: cd: can't cd to /scratch/932520
+cp: ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.csv’ and ‘./smiles_batch-46.csv’ are the same file
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+normal termination of xtb
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+[09:38:37] WARNING: could not find number of expected rings. Switching to an approximate ring finding algorithm.
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/mols_that_gives_problems/smiles_batch-46.pkl’ are the same file

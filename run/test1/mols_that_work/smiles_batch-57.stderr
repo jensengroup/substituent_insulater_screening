@@ -1,0 +1,13 @@
+/var/lib/slurm-llnl/slurmd/job932445/slurm_script: 12: cd: can't cd to /scratch/932445
+cp: ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-57.csv’ and ‘./smiles_batch-57.csv’ are the same file
+normal termination of xtb
+cp: ‘smiles_batch-0.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-0.pkl’ are the same file
+cp: ‘smiles_batch-1.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-1.pkl’ are the same file
+cp: ‘smiles_batch-18.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-18.pkl’ are the same file
+cp: ‘smiles_batch-19.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-19.pkl’ are the same file
+cp: ‘smiles_batch-29.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-29.pkl’ are the same file
+cp: ‘smiles_batch-38.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-38.pkl’ are the same file
+cp: ‘smiles_batch-46.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-46.pkl’ are the same file
+cp: ‘smiles_batch-47.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-47.pkl’ are the same file
+cp: ‘smiles_batch-57.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-57.pkl’ are the same file
+cp: ‘smiles_batch-9.pkl’ and ‘/home/koerstz/projects/gemma_part2/run/smiles_batch-9.pkl’ are the same file
